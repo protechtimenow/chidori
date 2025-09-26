@@ -10,7 +10,7 @@ python = "^3.10"
 numpy = "^1.24.1"
 maturin = "1.1.0"
 pydot = "^1.4.2"
-jupyterlab = "^4.0.2"
+jupyterlab = "^4.4.8"
 aiohttp = "^3.8.5"
 asyncio = "^3.4.3"
 
